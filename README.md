@@ -1,6 +1,6 @@
 # Google Calendar Django 
 
-Video Link: https://drive.google.com/file/d/1Ga0e6t9CUrCXKQpfM9M27lfjglac7k4F/view?usp=sharing
+Video Link: https://drive.google.com/file/d/1FKiZN7Es1f9c7gDxK9WqOWPykdWI0aK1/view?usp=sharing
 
 1. Clone the repo   
 2. Create virtual environment
